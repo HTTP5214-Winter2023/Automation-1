@@ -11,4 +11,16 @@ field 2) Which type test case user want to do. Example: test to pass, test to fa
  Features:
  when user had fill 2 filed, they will get a syntax for test.
  after that user also have option to +; if they want to add another test and again Field 1) , field 2) appear.
+ 
+ 
+Upcoming week
+Mahida umair will take a note.
+
+Next week agenda: 
+What language we can use to make this app work.
+Which software we will use.
+Define all the language and use.
+How we will generate test case by the given input.
+Generate test case: loop
+
 
