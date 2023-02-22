@@ -23,4 +23,19 @@ Define all the language and use.
 How we will generate test case by the given input.
 Generate test case: loop
 
+Date: 2023-02-15
+Scrum Master: Madiha Umair
+Meeting Minute:
+•	Frond end /Backend language
+•	Database 
+•	First landing page features
 
+Meeting Results:
+•	Frond end: Html/Css
+•	Back end: Php
+•	Database: My Sql
+•	First Page Sketch
+
+Meeting Agenda for Next Week:
+•	We will create a figma file !
+Next week Scrum Master: Udip
