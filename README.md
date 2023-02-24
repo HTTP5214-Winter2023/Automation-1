@@ -33,9 +33,26 @@ Meeting Minute:
 Meeting Results:
 •	Frond end: Html/Css
 •	Back end: Php
+
+
 •	Database: My Sql
 •	First Page Sketch
 
 Meeting Agenda for Next Week:
 •	We will create a figma file !
 Next week Scrum Master: Udip
+
+
+Date: 2023-02-22
+Scrum Master: Udip Mandora
+Meeting Minute:
+ - Design of the webpage
+ - How many web pages will be there
+ - How to put questions in sequence 
+
+Meeting Result: 
+ - Figma mockup of website was created
+ - Question to ask were figured out
+ - Position of questions were figured out
+
+Yet to decide how the output will look and team is going to figure that out on reading week.
