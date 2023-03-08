@@ -56,3 +56,26 @@ Meeting Result:
  - Position of questions were figured out
 
 Yet to decide how the output will look and team is going to figure that out on reading week.
+
+<br>
+<p><strong>Date:</strong> 2023-03-08<br>
+<strong>Scrum Master:</strong> Rachana Amin<br></p>
+<p>Meeting Minutes:</p>
+<ul>
+<li> How the Output page will look like</li>
+<li> Need to divide project work individually</li>
+<li> Arrange/decide workflow according to priorties</li>
+</ul>
+<p>Meeting Result:</p>
+<ul>
+<li> Output page layout created in figma</li>
+<li> FrontEnd work(HTML/CSS/JS) - Rachana, Disa & Jaclyn</li>
+<li> BackEnd work(PHP/MySQL) - Udip, Manali, Madiha & Navdeep</li>
+<li> Arrangement of work has been decided according to priorities.</li>
+</ul>
+<p>Next Week Meeting Agenda:</p>
+<p> - Next week we will discuss the technical pain-points..<br>
+ - Next week Scrum Master will be - Disa Soni</p>
+
+
+
