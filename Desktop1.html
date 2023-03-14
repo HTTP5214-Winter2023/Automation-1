@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Automation</title>
+  <link rel="stylesheet" type="text/css" href="Desktop.css">
+  <script src="Desktop.js"></script>
+</head>
+<body>
+  <header>
+    <nav class="navigation">
+      <h1>Automate Test Case Generator</h1>
+      <div class="nav">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+    <div>
+      <form id="myForm" method="get">
+        <label for="line_1">For which field you want Test Case?</label>
+        <input type="text" id="line_1" name="line_1"><br><br>
+        <label for="line_2">Which RegEx Pattern you want to Test?</label>
+        <input type="text" id="line_2" name="line_2"><br><br>
+        <label for="line_3">Which type of test case you want?</label>
+        <select id="line_3" name="line_3">
+          <option disabled selected>--Choose--</option>
+        </select><br><br>
+        <label for="line_4">How many test cases you want?</label>
+        <input type="text" id="line_4" name="line_4"><br><br>
+        <label for="line_5">How many specs you want?</label>
+        <input type="text" id="line_5" name="line_5"><br><br>
+      </form>
+    </div>
+
+    <div>
+      <button type="submit" onclick="submitForm()" value="Submit">Submit</button>
+    </div>
+
+  </section>
+  </main>
+
+</body>
+</html>
