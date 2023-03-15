@@ -79,3 +79,22 @@ Yet to decide how the output will look and team is going to figure that out on r
 
 
 
+Date: 2023-03-15
+Scrum Master:  Disa Soni
+Meeting Minutes:
+•	Front-end part work (HTML/CSS/JS) discussion and what will be changed. 
+•	Discussion about technical back-end work.
+•	We explained the CSS part to Jaclyn.
+•	Backend team starts unit testing and changes the language for testing.
+Meeting Result:
+•	Rachana, Created Front-end Part (HTML/CSS/JS) and need to change the HTML file.
+•	Decide to test unit testing for e.g., regex pattern: ^(a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$
+•	Some design adds in CSS.
+•	Teams decided to change language instead PHP/SQL to JavaScript.
+
+Next Week’s Meeting Agenda:
+- Will be discussing this again in Unit testing.
+- Next week Scrum Master will be – Navdeep Kaur
+
+
+
