@@ -1,3 +1,15 @@
+html{
+  box-sizing: border-box;
+}
+
+*,*::before,*::after{
+  box-sizing: inherit;
+}
+
+body{
+  margin: 0 auto; 
+}
+
 .navigation nav{
   display: flex;
   padding-left: 40px;
@@ -37,4 +49,11 @@
     text-decoration: none;
     color:#fff;
     padding-bottom: 3px;
+  }
+
+  footer {
+    color: #fff;
+    background-color:#000;
+    text-align: center;
+    padding:1em; 
   }
