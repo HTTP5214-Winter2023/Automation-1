@@ -87,3 +87,14 @@ Yet to decide how the output will look and team is going to figure that out on r
   <h4>Next Week’s Meeting Agenda:</h4>
   <p>Will be discussing this again in Unit testing.</p>
   <p>Next week Scrum Master will be – Navdeep Kaur</p>
+  
+  Date: 2023/03/22
+Scrum Master: Navdeep Kaur
+Meeting Notes - Week 11
+-	Research all the possible validations for the given fields
+-	JavaScript Validation coding portion
+-	Then we must go ahead and then use the regex pattern to generate values using randexp.js file.
+-	Loops can be used to make different text cases.
+-	The front-end developers need to add span tag for the error messages.
+-	Error messages should show in red colour when the form is submitted.
+
