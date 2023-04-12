@@ -1,4 +1,15 @@
+
 window.onload = submitForm;
+
+// import { RandExp } from "./randexp/lib/randexp";
+// const RandExp = require('randexp');
+
+// class randomExp extends RandExp {
+//   constructor() {
+//     constructor(/^(N|n)\d{8}$/, "N01552334");
+//     console.log(constructor);
+//   }
+// }
 
 var formHandle = document.forms.form;
 var form__field = formHandle.form__field;
@@ -20,6 +31,8 @@ var LetterRange = /^[A-Za-z]+$/;
 var LetterAndNum = /^[A-Za-z0-9]+$/;
 var RegxForRegx = /^[a-zA-Z0-9!@#$%^&*()_+\-={}[\]\\|:;"'<>,.?\/]+$/;
 
+// const remind = new RandExp(/^(N|n)\d{8}$/).gen();
+// console.log(remind);
 
 function submitForm() {
   formHandle.onsubmit = function (event) {
@@ -87,6 +100,10 @@ function submitForm() {
     console.log("Number of Specs:", form__spec.value);
 
     return true;
+
+  }
+
+  function generate() {
 
   }
 
