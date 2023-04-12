@@ -99,7 +99,17 @@ function submitForm() {
     console.log("Number of Test Cases:", form__testcase.value);
     console.log("Number of Specs:", form__spec.value);
 
-    return true;
+    var field = document.getElementById('field');
+    var regex = document.getElementById('regex');
+    var type = document.getElementById('type');
+    var testcase = document.getElementById('testcase');
+
+    field.innerHTML = form__field.value;
+    regex.innerHTML = form__pattern.value;
+    type.innerHTML = form__testtype.value;
+    testcase.innerHTML = form__testcase.value;
+
+    return false;
 
   }
 
