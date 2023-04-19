@@ -128,6 +128,10 @@ const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345678
       for ( let i = 0; i < random_num ; i++ ) {
         result += characters.charAt(Math.floor(Math.random() * charactersLength));
     }
+      
+      if(result.match(regex)) {
+        break;
+      }
   }
     return result;
 }
