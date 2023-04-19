@@ -20,8 +20,7 @@ We want to have one feature where user can add another case, user also have opti
 Link for our work: https://trello.com/b/zO2oNH87/automation1
 
 Meetings Meeting: 1
-Lead by Manali Patel Document in GitHub Read me:
-https://github.com/HTTP5214-Winter2023/Automation-1/commit/ 15f762e9e089c86f9cb114dc94e790717bbd8f1f
+Lead by Manali Patel Document in GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1/commit/ 15f762e9e089c86f9cb114dc94e790717bbd8f1f
 
 <i>Second week Scrum master: Madiha Umair Next week agenda:
 •	What language we can use to make this app work.
@@ -44,12 +43,12 @@ Q1:Select a field to generate a test case:
 
 Q2:Spec for humberID
 
-Q3: How many cases user want and what test they want to create? Link for our work:
-https://trello.com/b/zO2oNH87/automation1
+Q3: How many cases user want and what test they want to create? 
+
+Link for our work: https://trello.com/b/zO2oNH87/automation1
 
  
-Lead by Madiha Umair Document in GitHub Read me:
-https://github.com/HTTP5214-Winter2023/Automation-1/blob/main/README.md
+Lead by Madiha Umair Document in GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1/blob/main/README.md
 
 Third week Scrum master: Udip Mandora Next week agenda:
 •	Create a wireframe in Figma.
@@ -68,10 +67,13 @@ Lead by Udip Mandora Document in GitHub Read me: https://github.com/HTTP5214-Win
  
 Fourth week Scrum master: Rachna Amin Next week agenda:
 •	Finalize result page and divide work as per frontend and backend.
+
+ 
  
 <h3>Date: 08-03-2023</h3>
 <h4>Meeting:4 Rachana Amin, Work topic: Design Output page, divide work and discuss work flow as per priority</h4>
 
+ 
  
 We start with figma design. After completing design. 
 After that we divide responsibility
@@ -85,8 +87,7 @@ Lead by Rachana Amin Document in GitHub Read me:
 https://github.com/HTTP5214-Winter2023/Automation-1
  
 Fifth week Scrum master: Disa soni 
-Next week agenda:
-• Next week we will discuss the technical pain-points.
+Next week agenda: We will discuss the technical pain-points.
  
 <h3>Date: 15-03-2023</h3>
 <h4>Meeting:5 Disa Soni, Work topic: Front-end part work HTML is should be done and check it what should be change. Discussion for JavaScript work and start to work on it during class period.</h4>
@@ -97,7 +98,7 @@ Teams decided to change language instead PHP/SQL to JavaScript as per Prof. simo
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
 
-Lead by Rachana Amin Document in GitHub Read me:
+GitHub Read me:
 https://github.com/HTTP5214-Winter2023/Automation-1
  
 Six week Scrum master: Navdeep Kaur 
@@ -143,3 +144,9 @@ show the work and discuss about team break point and share our idea about randex
 
 GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
 
+<h3>Date: 19-04-2023</h3>
+<h4>Final meeting with team</h4>
+ 
+ Finishing the work for submission.
+ 
+ Thank you simon for guidance and support.
