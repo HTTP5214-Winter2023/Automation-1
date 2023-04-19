@@ -38,6 +38,7 @@ function submitForm() {
   formHandle.onsubmit = function (event) {
     event.preventDefault();
     specInfo();
+    generate(form__pattern.value);
 
   };
 
