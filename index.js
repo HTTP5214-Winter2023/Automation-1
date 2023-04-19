@@ -115,12 +115,16 @@ function submitForm() {
 
   function generate(regex) {
 // program to generate random strings
-
+// generating random number in range [x, y)
+function getRandomNum(min, max) {
+  return Math.random() * (max - min) + min;
+}
 // declare all characters
 const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     let result = ' ';
+    var random_num = getRandomNum(0, 100);
     const charactersLength = characters.length;
-    for ( let i = 0; i < length; i++ ) {
+    for ( let i = 0; i < random_num ; i++ ) {
         result += characters.charAt(Math.floor(Math.random() * charactersLength));
     }
   }
