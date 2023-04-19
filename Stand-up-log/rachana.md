@@ -32,7 +32,7 @@ https://github.com/HTTP5214-Winter2023/Automation-1/commit/ 15f762e9e089c86f9cb1
 
 
 <h3>Date: 15-02-2023<h3>
-<h4>Meeting: 2 Madiha Umair, Work Topic: Finalize language to work on rough wireframe<h4>
+<h4>Meeting: 2 Madiha Umair, Work Topic: Finalize language to work on rough wireframe</h4>
  
  
 I first research on what technology we need to make it effective and quick responsive website as user rush. As everyone agree with frontend with html/css, backend with php and mySQL. We decided to work with visual studio code software.
