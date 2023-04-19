@@ -124,9 +124,9 @@ const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345678
     let result = ' ';
     var random_num = getRandomNum(0, 100);
     const charactersLength = characters.length;
-    for ( let i = 0; i < random_num ; i++ ) {
+    while(true) { 
+      for ( let i = 0; i < random_num ; i++ ) {
         result += characters.charAt(Math.floor(Math.random() * charactersLength));
     }
   }
-
 }
