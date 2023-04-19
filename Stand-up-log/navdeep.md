@@ -56,3 +56,31 @@ Work I did:
 Made some changes in the code to follow the coding standards
 
 
+Date: 29-03-2023
+
+Group Work:
+Discuss CSS work and how we will generate outout
+Share entire work with team member and as they test found no eror. 
+User output now storing in console. So as per discusstion with team udip and I start work on finding way to generate loop as we are stuck at to export randexp.js function.
+Manali and Madiha work on to store output in HTML file.
+Edd value with DOM manupulating.
+Disa start work on contact form generating and Jacly mention she will start work on CSS soon.
+
+GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
+
+Work I did;
+Trying different methods to export the randexp.js file
+Looking for alternative solutions
+
+Date: 12-04-2023
+Final meeting: with simon
+show the work and discuss about team break point and share our idea about randexp.js file. Again try to solve the function with loop generate in live share during meeting. Show the process of our team. Disa generate the output page so i had merge all work and push on github. test again it working good. no conflict found.
+
+GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
+
+Date: 19-04-2023
+Final meeting with team
+Finishing the work for submission.
+
+Thank you simon for guidance and support.
+
