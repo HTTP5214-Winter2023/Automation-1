@@ -1,4 +1,7 @@
 # Automation-1
+
+<p><b> My works in Automatin-1 </b> I created Output.html, Contact.html with css </p>
+
 Automation Group: 1
 Topic name: Automated test case generator
 Pain point: Hard to remember syntax. for testing code to make it effective and reduce timeframe. if we don't have to write a syntax for testing code.
@@ -62,6 +65,7 @@ Yet to decide how the output will look and team is going to figure that out on r
 <p>Next Week Meeting Agenda:</p>
 <p> - Next week we will discuss the technical pain-points..<br>
  - Next week Scrum Master will be - Disa Soni</p>
+
 <h3>Date: 2023-03-15</h3>
 <h3>Scrum Master: Disa Soni</h3>
 <p>Meeting Minutes:</p>
@@ -93,4 +97,3 @@ Meeting Notes - Week 11
 -	Loops can be used to make different text cases.
 -	The front-end developers need to add span tag for the error messages.
 -	Error messages should show in red colour when the form is submitted.
-
