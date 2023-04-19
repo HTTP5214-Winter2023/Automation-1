@@ -1,7 +1,7 @@
 # Madiha Umair
 ## Web Developer Workshop 
 ## Group: Automation
-## Assignment Topic: Test case Generator
+## Assignment Topic: Test Case Generator
 
 ### Date: 2023-02-01
 ### Meeting 01
@@ -89,6 +89,8 @@
 • Majority of the time spent in debugging the code and achieving the required result.
 • Success achieved. Code successfully run without error.
 • Discuss the code among all team memebers.
+• GitHub link is here:
+• https://github.com/HTTP5214-Winter2023/Automation-1
 
 ### Date: 2023-04-12
 ### Meeting 08
@@ -99,7 +101,11 @@
 • This task was assigned to Navdeep and Udip.
 • Disa generated the output page.
 • All work compiled and push on github by Madiha and Manali.
+• GitHub link is here:
+• https://github.com/HTTP5214-Winter2023/Automation-1
 
 ### Date: 2023-04-12
 ### Meeting 09
 • Final Deliverables submitted.
+• GitHub link is here:
+• https://github.com/HTTP5214-Winter2023/Automation-1
