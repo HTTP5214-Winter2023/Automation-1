@@ -38,7 +38,8 @@ function submitForm() {
   formHandle.onsubmit = function (event) {
     event.preventDefault();
     specInfo();
-    generate(form__pattern.value);
+    var result=generate(form__pattern.value);
+    console.log(result);
 
   };
 
