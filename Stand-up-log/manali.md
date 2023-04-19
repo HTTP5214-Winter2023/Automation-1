@@ -64,10 +64,7 @@ Today we start to work on Figma, as our analysis this website will be used by de
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
 
-Meeting: 3
-Lead by Udip Mandora Document in GitHub Read me:
- 
-https://github.com/HTTP5214-Winter2023/Automation-1
+Lead by Udip Mandora Document in GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
  
 Fourth week Scrum master: Rachna Amin Next week agenda:
 •	Finalize result page and divide work as per frontend and backend.
@@ -84,10 +81,65 @@ We create road map for our self; so to start we need HTML form to work on. next 
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
 
-Meeting: 3
 Lead by Rachana Amin Document in GitHub Read me:
 https://github.com/HTTP5214-Winter2023/Automation-1
  
 Fourth week Scrum master: Disa soni 
 Next week agenda:
 • Next week we will discuss the technical pain-points.
+ 
+<h3>Date: 15-03-2023</h3>
+<h4>Meeting:3 Disa Soni, Work topic: Front-end part work HTML is should be done and check it what should be change. Discussion for JavaScript work and start to work on it during class period.</h4>
+
+Rachana create a HTML part; After clone the repo found lot of thing need to be change; like naming conventions are not followed. Start work on Validation button not working at all. Trying to debugg it but time was up and not able find error.
+Some design added in CSS.
+Teams decided to change language instead PHP/SQL to JavaScript as per Prof. simon Suggestion.
+
+Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
+
+Lead by Rachana Amin Document in GitHub Read me:
+https://github.com/HTTP5214-Winter2023/Automation-1
+ 
+Fifth week Scrum master: Navdeep Kaur 
+Next week agenda:
+• Unit Testing
+• Debugging the why button is not working
+ 
+ 
+<h3>Date: 22-03-2023</h3>
+<h4>Meeting:3 Navdeep, Work topic: Research on Function which generate test case and solving Error </h4>
+ 
+Research all the posible validation for give fields. Start coding in class but end with no any validation working. Even unable to find why button is not working. During Debugging we found missing span tag in HTML so add span tag for showing error message.
+Discuss about how we will generate test case after form validation done. Found one repository only where we can generate test with regx pattern with randexp.js file. This week class done without solve button issue and idea of test case generate loop.
+
+GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
+ 
+Six week Scrum master: Jaclyn 
+Next week agenda:
+• Debugg form
+
+<h3>Date: 28-03-2023</h3>
+Me and Madiha having some time today evening so we decide to debug as we are little back for testing
+ 
+Try to debugging and create a validation for each of the field as per regx pattern use. Finally found button issue; Button is out side of the form thats the reason it not working. so Clean up work and finish code in well manner. 
+
+Completed entire form validation and Had user testing with developer friend(Working as a backend developer).
+ 
+Result of User Testing: All the fields are quick easy to use except of Regx pattern one so as per their suggestion no any developer remind regx pattern button they can google and found but that only suggestion we got during user testing.
+
+<h3>Date: 29-03-2023</h3>
+<h4>Meeting:3 Jaclyn, Work topic: Discuss CSS work and how we will generate outout </h4>
+ 
+Share entire work with team member and as they test found no eror. User output now storing in console. So as per discusstion with team udip and navdeep start work on finding way to generate loop as we are stuck at to export randexp.js function. Me and Madiha work on to store output in HTML file. So we had completed task during class time. Edd value with DOM manupulating. Disa start work on contact form generating and Jacly mention she will start work on CSS soon.
+
+GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
+ 
+We all Done with scrum master and we have a meeting with simon next week to decide to see all in college.
+
+<h3>Date: 12-04-2023</h3>
+<h4>Meeting: with simon</h4>
+ 
+show the work and discuss about team break point and share our idea about randexp.js file. Again try to solve the function with loop generate in live share during meeting. Show the process of our team. Disa generate the output page so i had merge all work and push on github. test again it working good. no conflict found.
+
+GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
+
