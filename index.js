@@ -113,7 +113,7 @@ function submitForm() {
 
   }
 
-  function generate() {
+  function generate(regex) {
 
   }
 
