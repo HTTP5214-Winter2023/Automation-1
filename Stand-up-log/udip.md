@@ -59,11 +59,6 @@ During Debugging we found missing span tag in HTML so add span tag for showing e
 Found one repository only where we can generate test with regx pattern with randexp.js file. This week class done without solve button issue and idea of test case generate loop.
 
 
-Date: 28-03-2023
-Me and Madiha having some time today evening so we decide to debug as we are little back for testing
-Try to debugging and create a validation for each of the field as per regx pattern use. Finally found button issue; Button is out side of the form thats the reason it not working. so Clean up work and finish code in well manner.
-
-Completed entire form validation and Had user testing with developer friend(Working as a backend developer).
 
 Result of User Testing: All the fields are quick easy to use except of Regx pattern one so as per their suggestion no any developer remind regx pattern button they can google and found but that only suggestion we got during user testing.
 
