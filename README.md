@@ -78,10 +78,6 @@ Yet to decide how the output will look and team is going to figure that out on r
   <li>	Decide to test unit testing for e.g., regex pattern: ^(a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$</li>
   <li>	Some design adds in CSS.</li>
   <li>	Teams decided to change language instead PHP/SQL to JavaScript.</li>
-<li>	Rachana, Created Front-end Part (HTML/CSS/JS) and need to change the HTML file.</li>
-<li>	Decide to test unit testing for e.g., regex pattern: ^(a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$</li>
-<li>	Some design adds in CSS.</li>
-<li>	Teams decided to change language instead PHP/SQL to JavaScript.</li>
 </ul>
 
   <h4>Next Week’s Meeting Agenda:</h4>
