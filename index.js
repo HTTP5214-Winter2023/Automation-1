@@ -129,4 +129,5 @@ const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345678
         result += characters.charAt(Math.floor(Math.random() * charactersLength));
     }
   }
+    return result;
 }
