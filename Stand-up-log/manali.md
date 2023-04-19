@@ -1,6 +1,6 @@
 <h1>Manali Patel-N01575696</h1>
 
-<h2>Web Developer Workshop Assignment</h2>
+<h2>Web Developer Workshop stand-Up-log</h2>
 
 Group Name: Automation
 
