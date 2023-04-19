@@ -114,7 +114,10 @@ function submitForm() {
   }
 
   function generate(regex) {
+// program to generate random strings
 
+// declare all characters
+const characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   }
 
 }
