@@ -7,7 +7,7 @@
 
 <br>
 
-<h3>Date: 01-02-2023<h3>
+<h3>Date: 01-02-2023</h3>
 
 We first researched the pain point and identified hard to remember syntax every time. Then we started working on which topic we can select to make human life easy. We end-up with automated testing code generator to make it effective and reduce timeframe, if user don’t have to write syntax for testing code.
 
