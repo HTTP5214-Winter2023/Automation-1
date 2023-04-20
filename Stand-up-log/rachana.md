@@ -31,7 +31,7 @@ Second week Scrum master: Madiha Umair Next week agenda:
  
 
 
-<h3>Date: 15-02-2023<h3>
+<h3>Date: 15-02-2023</h3>
 <h4>Meeting: 2 Madiha Umair, Work Topic: Finalize language to work on rough wireframe</h4>
  
  
