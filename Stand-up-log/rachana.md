@@ -5,8 +5,6 @@
 <h3>Group Name: Automation</h3>
 <h3>Assignment: Test Case Generator</h3>
 
-<br>
-
 <h3>Date: 01-02-2023</h3>
 
 We first researched the pain point and identified hard to remember syntax every time. Then we started working on which topic we can select to make human life easy. We end-up with automated testing code generator to make it effective and reduce timeframe, if user don’t have to write syntax for testing code.
@@ -19,23 +17,23 @@ We want to have one feature where user can add another case, user also have opti
 
 Link for our work: https://trello.com/b/zO2oNH87/automation1
 
-Meetings Meeting: 1
-Lead by Manali Patel Document in GitHub Read me:
+<h4>Meetings Meeting: 1 Lead by Manali Patel Document in GitHub Read me:</h4>
+
 https://github.com/HTTP5214-Winter2023/Automation-1/commit/ 15f762e9e089c86f9cb114dc94e790717bbd8f1f
 
 Second week Scrum master: Madiha Umair Next week agenda:
-•	What language we can use to make this app work.
-•	Which software we will use.
-•	Define all the language and use.
-•	How we will generate test case by the given input.
- 
+<ul>
+ <li>What language we can use to make this app work.</li>
+ <li>	Which software we will use.</li>
+ <li>Define all the language and use.</li>
+	<li>How we will generate test case by the given input.</li>
+</ul> 
 
 
 <h3>Date: 15-02-2023</h3>
 <h4>Meeting: 2 Madiha Umair, Work Topic: Finalize language to work on rough wireframe</h4>
  
- 
-I first research on what technology we need to make it effective and quick responsive website as user rush. As everyone agree with frontend with html/css, backend with php and mySQL. We decided to work with visual studio code software.
+Manali first research on what technology we need to make it effective and quick responsive website as user rush. As everyone agree with frontend with html/css, backend with php and mySQL. We decided to work with visual studio code software.
 Next, we start to ask question to our self what information we need from user and we start to create rough wireframe. As below,
 Header, Nav menu, footer
 Introduction for our website: We are doing client side validation!
