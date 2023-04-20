@@ -1,15 +1,15 @@
 <h1>Rachana Amin - N01575358</h1>
 
-<h2>Web Developer Workshop Assignment</h2>
+<h2>Web Development Workshop</h2>
 
-Group Name: Automation
+<h3>Group Name: Automation</h3>
+<h3>Assignment: Test Case Generator</h3>
 
 <br>
 
 <h3>Date: 01-02-2023<h3>
-<h4>Work Topic: Automated test case generator</h4>
 
-I first researched the pain point and identified hard to remember syntax every time. I then started working on which topic we can select to make human life easy. We end-up with automated testing code generator to make it effective and reduce timeframe, if user don’t have to write syntax for testing code.
+We first researched the pain point and identified hard to remember syntax every time. Then we started working on which topic we can select to make human life easy. We end-up with automated testing code generator to make it effective and reduce timeframe, if user don’t have to write syntax for testing code.
 
 Next, we head for rough solution steps; what we need to make this website successful. We decided to make it like form. Like,
 Field 1) How many tests case user want
@@ -23,11 +23,11 @@ Meetings Meeting: 1
 Lead by Manali Patel Document in GitHub Read me:
 https://github.com/HTTP5214-Winter2023/Automation-1/commit/ 15f762e9e089c86f9cb114dc94e790717bbd8f1f
 
-<i>Second week Scrum master: Madiha Umair Next week agenda:
+Second week Scrum master: Madiha Umair Next week agenda:
 •	What language we can use to make this app work.
 •	Which software we will use.
 •	Define all the language and use.
- •	How we will generate test case by the given input.</i>
+•	How we will generate test case by the given input.
  
 
 
