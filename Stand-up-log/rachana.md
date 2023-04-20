@@ -77,9 +77,10 @@ Fourth week Scrum master: Rachna Amin Next week agenda:
 <h4>Meeting:4 Rachana Amin, Work topic: Design Output page, divide work and discuss work flow as per priority</h4>
 
 We start with figma design. After completing design. 
-After that we divide responsibility
+After that I divide responsibility
 <li>Fontend: Rachana, Disa, Jaclyn</li>
 <li>Backend: Manali, Madiha, Navdeep, Udip</li>
+
 <p>We create road map for our self; so to start we need HTML form to work on. next we will validate form with vanilla javascript and had a user testing with it. as per user testing we will implementing correction in it. and then will create a function which will generate test case as regarding user input.</p>
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
@@ -89,14 +90,12 @@ https://github.com/HTTP5214-Winter2023/Automation-1
  
 Fifth week Scrum master: Disa soni 
 Next week agenda:
-<ul>
- <li>Next week we will discuss the technical pain-points.</li>
-</ul>
+<li>Next week we will discuss the technical pain-points.</li>
 
 <h3>Date: 15-03-2023</h3>
 <h4>Meeting:5 Disa Soni, Work topic: Front-end part work HTML is should be done and check it what should be change. Discussion for JavaScript work and start to work on it during class period.</h4>
 
-<p>Rachana create a HTML part; After clone the repo found lot of thing need to be change; like naming conventions are not followed. Start work on Validation button not working at all. Trying to debugg it but time was up and not able find error.
+<p>I create a HTML part; After clone the repo found lot of thing need to be change; like naming conventions are not followed. Start work on Validation button not working at all. Trying to debugg it but time was up and not able find error.
 Some design added in CSS.</p>
 Teams decided to change language instead PHP/SQL to JavaScript as per Prof. simon Suggestion.
 
@@ -127,16 +126,16 @@ Next week agenda:
 <h3>Date: 28-03-2023</h3>
 Me and Madiha having some time today evening so we decide to debug as we are little back for testing
  
-Try to debugging and create a validation for each of the field as per regx pattern use. Finally found button issue; Button is out side of the form thats the reason it not working. so Clean up work and finish code in well manner. 
+<p>Try to debugging and create a validation for each of the field as per regx pattern use. Finally found button issue; Button is out side of the form thats the reason it not working. so Clean up work and finish code in well manner.</p> 
 
-Completed entire form validation and Had user testing with developer friend(Working as a backend developer).
+<p>Completed entire form validation and Had user testing with developer friend(Working as a backend developer).</p>
  
-Result of User Testing: All the fields are quick easy to use except of Regx pattern one so as per their suggestion no any developer remind regx pattern button they can google and found but that only suggestion we got during user testing.
+<p>Result of User Testing: All the fields are quick easy to use except of Regx pattern one so as per their suggestion no any developer remind regx pattern button they can google and found but that only suggestion we got during user testing.</p>
 
 <h3>Date: 29-03-2023</h3>
 <h4>Meeting:7 Jaclyn, Work topic: Discuss CSS work and how we will generate outout </h4>
  
-Share entire work with team member and as they test found no eror. User output now storing in console. So as per discusstion with team udip and navdeep start work on finding way to generate loop as we are stuck at to export randexp.js function. Me and Madiha work on to store output in HTML file. So we had completed task during class time. Edd value with DOM manupulating. Disa start work on contact form generating and Jacly mention she will start work on CSS soon.
+<p>Share entire work with team member and as they test found no eror. User output now storing in console. So as per discusstion with team udip and navdeep start work on finding way to generate loop as we are stuck at to export randexp.js function. Me and Madiha work on to store output in HTML file. So we had completed task during class time. Edd value with DOM manupulating. Disa start work on contact form generating and Jacly mention she will start work on CSS soon.</p>
 
 GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
  
@@ -145,7 +144,7 @@ We all Done with scrum master and we have a meeting with simon next week to deci
 <h3>Date: 12-04-2023</h3>
 <h4>Final meeting: with simon</h4>
  
-show the work and discuss about team break point and share our idea about randexp.js file. Again try to solve the function with loop generate in live share during meeting. Show the process of our team. Disa generate the output page so i had merge all work and push on github. test again it working good. no conflict found.
+<p>Show the work and discuss about team break point and share our idea about randexp.js file. Again try to solve the function with loop generate in live share during meeting. Show the process of our team. Disa generate the output page so Manali had merge all work and push on github. test again it working good. no conflict found.<p>
 
 GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
 
