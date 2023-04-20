@@ -7,35 +7,41 @@
 
 <h3>Date: 01-02-2023</h3>
 
-We first researched the pain point and identified hard to remember syntax every time. Then we started working on which topic we can select to make human life easy. We end-up with automated testing code generator to make it effective and reduce timeframe, if user don’t have to write syntax for testing code.
+<p>We first researched the pain point and identified hard to remember syntax every time. Then we started working on which topic we can select to make human life easy. We end-up with automated testing code generator to make it effective and reduce timeframe, if user don’t have to write syntax for testing code.</p>
 
 Next, we head for rough solution steps; what we need to make this website successful. We decided to make it like form. Like,
+
 Field 1) How many tests case user want
-field 2) Which type test case user want to do. Example: test to pass, test to fail, boundary test, end to end test.
+
+field 2) Which type test case user want to do. 
+
+Example: test to pass, test to fail, boundary test, end to end test.
 
 We want to have one feature where user can add another case, user also have option to ‘+’ sign; if they want to add another test and again Field 1), field 2) appear.
 
 Link for our work: https://trello.com/b/zO2oNH87/automation1
 
-<h4>Meetings Meeting: 1 Lead by Manali Patel Document in GitHub Read me:</h4>
+<h4>Meeting: 1 Lead by Manali Patel Document in GitHub Read me:</h4>
 
 https://github.com/HTTP5214-Winter2023/Automation-1/commit/ 15f762e9e089c86f9cb114dc94e790717bbd8f1f
 
 Second week Scrum master: Madiha Umair Next week agenda:
 <ul>
  <li>What language we can use to make this app work.</li>
- <li>	Which software we will use.</li>
+ <li>Which software we will use.</li>
  <li>Define all the language and use.</li>
-	<li>How we will generate test case by the given input.</li>
+ <li>How we will generate test case by the given input.</li>
 </ul> 
 
 
 <h3>Date: 15-02-2023</h3>
 <h4>Meeting: 2 Madiha Umair, Work Topic: Finalize language to work on rough wireframe</h4>
  
-Manali first research on what technology we need to make it effective and quick responsive website as user rush. As everyone agree with frontend with html/css, backend with php and mySQL. We decided to work with visual studio code software.
+<p>Manali first research on what technology we need to make it effective and quick responsive website as user rush. As everyone agree with frontend with html/css, backend with php and mySQL. We decided to work with visual studio code software.</p>
+
 Next, we start to ask question to our self what information we need from user and we start to create rough wireframe. As below,
 Header, Nav menu, footer
+
 Introduction for our website: We are doing client side validation!
  
 Q1:Select a field to generate a test case:
@@ -45,37 +51,36 @@ Q2:Spec for humberID
 Q3: How many cases user want and what test they want to create? Link for our work:
 https://trello.com/b/zO2oNH87/automation1
 
- 
 Lead by Madiha Umair Document in GitHub Read me:
 https://github.com/HTTP5214-Winter2023/Automation-1/blob/main/README.md
 
 Third week Scrum master: Udip Mandora Next week agenda:
-•	Create a wireframe in Figma.
+<ul>
+  <li>Create a wireframe in Figma.</li>
+</ul>	
 
- 
- 
 <h3>Date: 22-02-2023</h3>
 <h4>Meeting:3 Udip Mandora, Work topic: Finalize home and test generate page. Discussing on result page.</h4>
 
- 
-Today we start to work on Figma, as our analysis this website will be used by developers or tester so they have knowledge about RegEx pattern; so, we decided to add pattern want to text in put form. As our form value we can generate test pattern.
+<p>Today we start to work on Figma, as our analysis this website will be used by developers or tester so they have knowledge about RegEx pattern; so, we decided to add pattern want to text in put form. As our form value we can generate test pattern.</p>
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
 
 Lead by Udip Mandora Document in GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
  
 Fourth week Scrum master: Rachna Amin Next week agenda:
-•	Finalize result page and divide work as per frontend and backend.
+<ul>
+  <li>Finalize result page and divide work as per frontend and backend.</li>
+</ul>
  
 <h3>Date: 08-03-2023</h3>
 <h4>Meeting:4 Rachana Amin, Work topic: Design Output page, divide work and discuss work flow as per priority</h4>
 
- 
 We start with figma design. After completing design. 
 After that we divide responsibility
-Fontend: Rachana, Disa, Jaclyn
-Backend: Manali, Madiha, Navdeep, Udip
-We create road map for our self; so to start we need HTML form to work on. next we will validate form with vanilla javascript and had a user testing with it. as per user testing we will implementing correction in it. and then will create a function which will generate test case as regarding user input.
+<li>Fontend: Rachana, Disa, Jaclyn</li>
+<li>Backend: Manali, Madiha, Navdeep, Udip</li>
+<p>We create road map for our self; so to start we need HTML form to work on. next we will validate form with vanilla javascript and had a user testing with it. as per user testing we will implementing correction in it. and then will create a function which will generate test case as regarding user input.</p>
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
 
@@ -84,13 +89,15 @@ https://github.com/HTTP5214-Winter2023/Automation-1
  
 Fifth week Scrum master: Disa soni 
 Next week agenda:
-• Next week we will discuss the technical pain-points.
- 
+<ul>
+ <li>Next week we will discuss the technical pain-points.</li>
+</ul>
+
 <h3>Date: 15-03-2023</h3>
 <h4>Meeting:5 Disa Soni, Work topic: Front-end part work HTML is should be done and check it what should be change. Discussion for JavaScript work and start to work on it during class period.</h4>
 
-Rachana create a HTML part; After clone the repo found lot of thing need to be change; like naming conventions are not followed. Start work on Validation button not working at all. Trying to debugg it but time was up and not able find error.
-Some design added in CSS.
+<p>Rachana create a HTML part; After clone the repo found lot of thing need to be change; like naming conventions are not followed. Start work on Validation button not working at all. Trying to debugg it but time was up and not able find error.
+Some design added in CSS.</p>
 Teams decided to change language instead PHP/SQL to JavaScript as per Prof. simon Suggestion.
 
 Link for our work: https://www.figma.com/file/umVCDF7rdGd0DmBkLGwkeA/Automation?node-id=1%3A2
@@ -100,21 +107,22 @@ https://github.com/HTTP5214-Winter2023/Automation-1
  
 Six week Scrum master: Navdeep Kaur 
 Next week agenda:
-• Unit Testing
-• Debugging the why button is not working
- 
+<ul>
+ <li>Unit Testing</li>
+ <li>Debugging the why button is not working</li>
+</ul>
  
 <h3>Date: 22-03-2023</h3>
 <h4>Meeting:6 Navdeep, Work topic: Research on Function which generate test case and solving Error </h4>
  
-Research all the posible validation for give fields. Start coding in class but end with no any validation working. Even unable to find why button is not working. During Debugging we found missing span tag in HTML so add span tag for showing error message.
-Discuss about how we will generate test case after form validation done. Found one repository only where we can generate test with regx pattern with randexp.js file. This week class done without solve button issue and idea of test case generate loop.
+<p>Research all the posible validation for give fields. Start coding in class but end with no any validation working. Even unable to find why button is not working. During Debugging we found missing span tag in HTML so add span tag for showing error message.</p>
+<p>Discuss about how we will generate test case after form validation done. Found one repository only where we can generate test with regx pattern with randexp.js file. This week class done without solve button issue and idea of test case generate loop.</p>
 
 GitHub Read me: https://github.com/HTTP5214-Winter2023/Automation-1
  
 Seven week Scrum master: Jaclyn 
 Next week agenda:
-• Debugg the form
+<li>Debugg the form</li>
 
 <h3>Date: 28-03-2023</h3>
 Me and Madiha having some time today evening so we decide to debug as we are little back for testing
